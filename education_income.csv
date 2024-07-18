@@ -1,0 +1,601 @@
+age,experience,education,location,occupation,income
+60,38,Bachelor,Urban,Laborer,44765.22955064622
+50,6,Master,Suburban,Clerical,54673.74152663931
+36,32,Bachelor,Urban,Clerical,48836.992772090096
+64,21,Master,Suburban,Manager,69518.10432085837
+29,16,Bachelor,Urban,Technician,58698.6345120788
+42,21,High School,Rural,Laborer,57994.88013787853
+60,11,PhD,Suburban,Manager,57827.654833997134
+40,37,High School,Suburban,Manager,45830.80184576663
+44,36,High School,Urban,Laborer,50909.79770531072
+32,35,Master,Urban,Manager,49886.69390532204
+32,19,High School,Suburban,Technician,36885.53420526432
+45,20,Master,Urban,Technician,33750.33188671805
+57,18,Bachelor,Suburban,Clerical,63602.86542688603
+61,14,Master,Rural,Manager,56767.52696520196
+45,15,Bachelor,Urban,Clerical,62098.46265021499
+24,31,Bachelor,Suburban,Manager,53090.7427681927
+43,1,Master,Rural,Technician,57222.5215653769
+23,3,High School,Rural,Technician,16107.958009712715
+45,16,PhD,Suburban,Technician,48775.7108392534
+51,23,High School,Urban,Manager,1102.8072348738642
+59,11,Bachelor,Suburban,Technician,41560.79775757016
+23,12,High School,Rural,Manager,74173.73054771872
+42,10,Bachelor,Suburban,Clerical,30680.789157230007
+54,32,High School,Urban,Manager,528.5217487014088
+33,16,Master,Rural,Clerical,74440.03379378298
+43,8,Master,Suburban,Manager,95455.76803945052
+46,38,PhD,Urban,Clerical,74468.81597889704
+48,12,High School,Rural,Technician,44330.9859207994
+63,24,Bachelor,Urban,Clerical,45351.76889534373
+49,28,Bachelor,Rural,Technician,23086.1415423491
+37,8,High School,Suburban,Technician,18239.321233847855
+36,28,High School,Urban,Clerical,35248.70005902223
+24,36,Bachelor,Rural,Manager,42373.169899553846
+58,26,Bachelor,Urban,Manager,48272.40608345087
+28,8,Bachelor,Urban,Laborer,62439.87235892239
+42,28,Bachelor,Suburban,Manager,41272.432521244686
+30,28,High School,Urban,Laborer,52745.75134606917
+60,37,High School,Rural,Manager,31370.65435145845
+39,36,High School,Rural,Manager,55573.59389298635
+25,27,PhD,Rural,Technician,71295.51350610136
+46,17,High School,Rural,Laborer,33462.54488617732
+35,9,High School,Suburban,Manager,41039.410908233345
+30,33,High School,Urban,Laborer,35596.9173676365
+47,20,Master,Suburban,Technician,61697.01356519957
+23,13,PhD,Urban,Technician,81371.59297776208
+41,28,Master,Urban,Laborer,58691.76602376525
+49,29,Bachelor,Urban,Technician,44456.46720719329
+28,13,Bachelor,Suburban,Clerical,33147.25692633756
+29,35,High School,Urban,Clerical,48687.67028937572
+56,6,PhD,Suburban,Technician,75224.08339604086
+35,18,Master,Rural,Clerical,42270.85723608719
+38,5,Bachelor,Rural,Manager,62532.41416881142
+57,25,Master,Urban,Laborer,42027.239510964966
+61,2,Bachelor,Suburban,Manager,65438.326868508404
+25,10,Bachelor,Rural,Laborer,60317.94990780527
+23,30,PhD,Suburban,Technician,76294.98283897105
+27,5,Master,Suburban,Manager,54345.072612494456
+63,33,Bachelor,Urban,Technician,58636.69673999679
+25,1,Bachelor,Rural,Technician,66145.5799286177
+50,18,High School,Urban,Laborer,48885.2788166226
+39,32,Bachelor,Urban,Laborer,39946.24967410644
+47,11,High School,Rural,Laborer,44011.10473533196
+55,21,Bachelor,Rural,Manager,66980.52479442554
+31,26,PhD,Suburban,Clerical,102986.47270835054
+57,25,Bachelor,Rural,Laborer,46921.80538251206
+35,22,Bachelor,Suburban,Laborer,62868.24659197146
+52,27,High School,Suburban,Manager,57017.20780126478
+36,13,High School,Suburban,Laborer,27813.925015153545
+29,33,Bachelor,Rural,Manager,76731.17477092223
+35,34,High School,Urban,Technician,24022.229738748312
+44,35,High School,Suburban,Laborer,52134.782725494646
+61,1,Bachelor,Urban,Laborer,54579.79669320599
+42,21,Master,Urban,Technician,60833.6333999724
+37,6,Bachelor,Rural,Technician,88202.49922172967
+39,28,High School,Urban,Technician,35481.17147009798
+45,17,Bachelor,Urban,Laborer,45239.816109070875
+47,5,Bachelor,Rural,Clerical,69972.18211096693
+46,31,Bachelor,Suburban,Clerical,61427.05667130175
+62,5,Bachelor,Urban,Clerical,69231.48381437831
+50,38,High School,Rural,Laborer,41753.0407351167
+36,3,Bachelor,Urban,Technician,54754.13925518245
+22,23,Bachelor,Urban,Laborer,78514.03419491861
+46,37,Master,Suburban,Technician,47460.68880628956
+28,37,Bachelor,Urban,Laborer,48456.844338625095
+30,10,Bachelor,Rural,Laborer,61973.81107138167
+45,10,Bachelor,Urban,Technician,47062.08769868243
+22,19,Bachelor,Suburban,Clerical,41447.811810754465
+29,17,Master,Suburban,Technician,69277.26769179784
+45,21,Bachelor,Rural,Manager,70037.08499737241
+32,14,Bachelor,Suburban,Manager,47887.48455791215
+38,9,Bachelor,Urban,Technician,47471.155687838764
+29,1,Bachelor,Suburban,Laborer,40284.67961474854
+56,13,Bachelor,Rural,Manager,45560.34734891399
+56,4,Master,Suburban,Manager,76254.09119745278
+54,1,Bachelor,Suburban,Laborer,51215.943060404854
+26,32,Bachelor,Suburban,Laborer,37925.14008604568
+63,34,PhD,Rural,Clerical,73935.43570485494
+60,28,High School,Suburban,Laborer,55767.910164790606
+62,31,High School,Suburban,Technician,31571.715046788566
+49,8,High School,Urban,Technician,20070.92170606655
+28,39,Master,Rural,Clerical,92862.37739809128
+30,26,High School,Suburban,Manager,19322.059749351294
+29,34,High School,Rural,Manager,34614.661542163216
+33,3,High School,Suburban,Laborer,43481.92767788004
+55,12,High School,Suburban,Technician,35913.58448133563
+54,1,High School,Suburban,Manager,38876.33733017472
+44,5,Bachelor,Urban,Clerical,58652.572518118905
+45,30,Bachelor,Urban,Clerical,14124.175134308098
+58,30,High School,Urban,Technician,20996.58292714223
+56,17,High School,Rural,Clerical,40663.89079105494
+61,23,High School,Rural,Clerical,33936.74482039585
+43,15,High School,Urban,Technician,41941.16887413397
+48,37,Bachelor,Rural,Laborer,53414.79923946956
+56,21,Bachelor,Suburban,Laborer,18261.20006793512
+22,14,High School,Suburban,Clerical,59104.6049822747
+56,2,Bachelor,Suburban,Laborer,42525.98175349475
+58,11,High School,Urban,Laborer,27017.3022283599
+35,39,Master,Rural,Clerical,63125.329439389185
+24,38,Bachelor,Urban,Laborer,51607.40341673365
+22,34,Bachelor,Rural,Clerical,67950.36226481956
+26,38,High School,Suburban,Manager,44078.09744155026
+47,34,Master,Urban,Technician,77371.6627203645
+35,18,High School,Rural,Technician,25927.33936858442
+60,30,High School,Rural,Laborer,42127.915828112484
+48,15,High School,Suburban,Laborer,23278.78439012666
+30,27,High School,Urban,Laborer,41465.137833404195
+36,34,PhD,Urban,Technician,68285.68066597171
+36,38,Master,Urban,Manager,57640.53862198645
+47,33,High School,Suburban,Manager,37772.08671457551
+63,24,Bachelor,Urban,Technician,61045.84205276896
+34,15,PhD,Suburban,Manager,45889.6051449613
+53,30,Master,Suburban,Technician,46503.18205823741
+60,17,Bachelor,Suburban,Manager,49391.42259882237
+53,5,Master,Rural,Clerical,42320.053657931254
+25,29,PhD,Urban,Clerical,70691.71159301566
+51,4,Bachelor,Urban,Technician,49237.212181383875
+58,10,High School,Suburban,Manager,18943.650324211252
+44,17,Bachelor,Suburban,Laborer,28202.522806185836
+60,10,Master,Urban,Manager,20643.17646676102
+36,17,High School,Suburban,Clerical,21689.949254771305
+64,20,Master,Urban,Clerical,60214.848873159
+50,24,High School,Rural,Manager,42342.817344113166
+57,5,High School,Suburban,Manager,43028.49339442676
+34,34,High School,Urban,Laborer,28331.21780998929
+53,6,High School,Suburban,Laborer,39725.44773967766
+28,2,PhD,Urban,Manager,75958.6691386218
+43,13,Master,Urban,Manager,40979.4667574827
+49,11,Master,Suburban,Manager,61849.9361158581
+23,23,Bachelor,Rural,Manager,59847.218177526374
+63,16,High School,Urban,Technician,32638.418052656787
+27,31,Bachelor,Urban,Manager,65933.51495524404
+49,11,Bachelor,Urban,Laborer,42988.48484262545
+49,16,Bachelor,Rural,Clerical,37099.08717315387
+41,8,High School,Rural,Technician,48352.617678293806
+51,4,Bachelor,Suburban,Manager,80499.40654199685
+32,4,Bachelor,Rural,Clerical,51280.304283317135
+49,25,PhD,Suburban,Technician,79523.6170617058
+46,3,Master,Suburban,Clerical,52369.24168353234
+60,32,Bachelor,Rural,Manager,31375.756703059586
+54,3,Bachelor,Suburban,Manager,52493.984688511
+22,27,Bachelor,Rural,Laborer,54865.99957681866
+48,29,High School,Suburban,Manager,34631.33364428257
+34,32,Master,Rural,Manager,69465.84777032258
+62,19,Master,Rural,Technician,50188.7998527852
+24,21,Bachelor,Suburban,Laborer,36468.70601222387
+60,5,High School,Urban,Technician,55909.64395729247
+27,18,High School,Suburban,Clerical,55980.21439812446
+29,28,Bachelor,Rural,Manager,40484.85341246482
+48,22,High School,Urban,Clerical,65782.75735607232
+30,21,Master,Suburban,Technician,55693.39961204626
+58,6,High School,Suburban,Manager,41271.74296965938
+54,1,High School,Suburban,Manager,38730.21187227358
+63,5,Master,Urban,Technician,67856.40326168519
+45,12,Bachelor,Rural,Technician,54071.32240701414
+36,26,High School,Suburban,Technician,43869.432423724866
+53,34,High School,Suburban,Technician,24706.575524201704
+53,14,High School,Suburban,Technician,14671.565248154733
+45,26,Bachelor,Suburban,Manager,67132.40042379293
+62,27,High School,Suburban,Technician,31818.310015903844
+33,9,Bachelor,Rural,Manager,49264.49939849783
+60,26,PhD,Rural,Manager,74901.98364834671
+23,22,High School,Suburban,Technician,64435.14405023902
+24,30,Master,Urban,Technician,62420.36886963762
+58,17,PhD,Rural,Laborer,64078.03655613854
+38,26,High School,Urban,Manager,32146.83428069714
+23,36,Master,Rural,Technician,59439.64738137092
+23,1,Bachelor,Suburban,Technician,36359.52845539081
+49,8,Master,Rural,Technician,60433.13584723516
+44,35,Bachelor,Suburban,Laborer,49219.70467312979
+58,15,Bachelor,Rural,Laborer,74622.90422966226
+53,22,Bachelor,Suburban,Clerical,48745.98292113619
+54,14,Master,Suburban,Manager,31132.677584267254
+22,26,Bachelor,Suburban,Clerical,90102.66455594718
+40,28,Bachelor,Suburban,Technician,64352.50596734145
+23,23,Master,Urban,Laborer,91235.23116143377
+47,14,High School,Suburban,Laborer,22640.200195232734
+53,24,High School,Urban,Clerical,36672.598281155624
+27,2,High School,Urban,Laborer,50116.01862241479
+53,26,High School,Suburban,Technician,48045.870584266886
+25,14,High School,Urban,Laborer,44604.06561039328
+32,7,Master,Rural,Clerical,27005.83922249169
+38,3,High School,Suburban,Technician,14313.408136535294
+59,23,Bachelor,Urban,Clerical,72762.80163595808
+45,18,High School,Suburban,Laborer,65429.94299304535
+26,38,Master,Suburban,Clerical,58400.23062845407
+55,35,PhD,Suburban,Clerical,90856.41211609573
+27,15,Bachelor,Urban,Manager,34651.58350785053
+43,25,Master,Rural,Laborer,48083.60919796979
+32,37,High School,Rural,Laborer,23465.795172052764
+37,28,Master,Urban,Clerical,47251.20681467031
+54,10,High School,Suburban,Manager,50840.44014283929
+30,39,Master,Urban,Laborer,47064.71440404833
+27,17,High School,Urban,Technician,73596.14559891797
+37,39,Bachelor,Urban,Clerical,56901.05909521157
+50,22,Master,Suburban,Laborer,76267.90569742632
+24,26,High School,Urban,Technician,47349.108742001095
+41,25,High School,Suburban,Laborer,58214.04475688918
+57,17,High School,Urban,Technician,26980.000006921793
+40,13,High School,Rural,Clerical,61704.00307299335
+47,20,Bachelor,Urban,Laborer,52114.08328387155
+24,25,High School,Urban,Laborer,58138.99166453109
+40,4,High School,Rural,Manager,18406.539199357238
+41,10,High School,Suburban,Clerical,42708.74809912544
+53,3,Master,Suburban,Technician,62178.58075172498
+28,18,High School,Urban,Laborer,30711.45302530838
+62,36,High School,Rural,Laborer,44696.78244620896
+54,22,High School,Suburban,Technician,63094.102720022725
+61,34,Bachelor,Urban,Clerical,39557.71461555318
+60,8,Master,Rural,Manager,74427.81534307408
+39,19,High School,Suburban,Manager,23088.654157802375
+61,37,High School,Suburban,Laborer,71641.66891963688
+22,6,Master,Rural,Technician,71769.00477655063
+32,26,Master,Rural,Laborer,85876.75998387858
+49,34,High School,Rural,Technician,50080.90778640651
+46,6,Master,Rural,Manager,65859.19766594042
+44,37,Master,Urban,Clerical,71893.99410728877
+52,33,High School,Rural,Technician,37953.28804968743
+51,22,Master,Suburban,Manager,35732.49141662517
+63,21,Bachelor,Suburban,Laborer,56710.990197001884
+56,6,Bachelor,Urban,Technician,38667.44998100368
+28,6,High School,Suburban,Clerical,23475.071269308966
+37,4,High School,Suburban,Laborer,49544.39752657915
+47,30,Master,Rural,Laborer,55813.37287650459
+23,11,PhD,Suburban,Manager,85415.56609908535
+22,30,Bachelor,Urban,Technician,38165.88846861395
+33,31,Bachelor,Rural,Laborer,42937.5653522926
+26,24,Bachelor,Rural,Clerical,67254.4403945209
+58,9,Bachelor,Urban,Technician,54197.63991496413
+53,3,High School,Rural,Clerical,17840.079386407902
+30,31,High School,Rural,Laborer,43866.41324290167
+62,37,Master,Urban,Clerical,82218.57822883205
+56,36,High School,Rural,Manager,32821.338330677994
+40,24,Master,Urban,Clerical,68970.86544679363
+37,31,High School,Urban,Technician,27259.196272661422
+24,6,High School,Suburban,Clerical,37948.250875458565
+41,2,High School,Suburban,Clerical,56347.53304675651
+45,20,Bachelor,Rural,Manager,53288.475016324606
+54,28,Master,Rural,Clerical,79339.04794073454
+45,11,High School,Urban,Clerical,46379.53606341792
+32,4,Master,Rural,Laborer,93281.09515801263
+29,15,Bachelor,Urban,Laborer,26526.299461710958
+57,6,Master,Urban,Technician,56742.09974908553
+59,30,High School,Rural,Laborer,23731.993100619227
+61,38,Master,Urban,Laborer,44756.26238312626
+41,2,Master,Suburban,Laborer,44892.2445929094
+56,15,High School,Rural,Laborer,42515.8873307683
+46,11,High School,Suburban,Manager,43394.51402232801
+56,8,Master,Rural,Laborer,66411.83887492675
+46,26,PhD,Urban,Manager,53154.09159783172
+50,5,High School,Rural,Manager,35136.62771502564
+39,6,Bachelor,Suburban,Laborer,35535.58040365448
+39,26,Master,Urban,Clerical,74038.22334407574
+23,4,Master,Rural,Manager,46945.986747285395
+56,19,PhD,Rural,Clerical,66794.31772006178
+37,20,Master,Rural,Clerical,68404.59661984659
+62,33,Bachelor,Suburban,Laborer,40765.569882536525
+57,20,High School,Suburban,Technician,50408.17667470981
+54,12,High School,Rural,Laborer,63941.196032997235
+25,1,Bachelor,Urban,Technician,52845.67593088288
+54,26,Bachelor,Urban,Technician,63524.163718526106
+35,14,High School,Suburban,Laborer,8898.686665954257
+42,38,Master,Urban,Laborer,53564.22109728224
+41,37,Bachelor,Suburban,Technician,52773.512253934656
+29,11,Bachelor,Rural,Laborer,34205.5238239954
+28,36,Bachelor,Suburban,Technician,53114.740031061374
+24,13,Bachelor,Suburban,Clerical,65899.10834088727
+38,3,High School,Rural,Laborer,11806.590579849671
+54,33,High School,Urban,Clerical,22163.907012942287
+33,6,High School,Suburban,Manager,42772.19906146278
+43,10,High School,Suburban,Clerical,46906.295941600714
+43,5,Bachelor,Rural,Clerical,61071.20562364476
+51,23,Bachelor,Urban,Technician,51663.34218331652
+59,10,High School,Suburban,Clerical,46922.686075237136
+59,2,Master,Rural,Laborer,73552.21062811022
+29,13,High School,Suburban,Technician,33783.128473445104
+48,2,Master,Rural,Manager,50871.20870990369
+48,20,PhD,Urban,Laborer,67472.40053597698
+55,1,High School,Urban,Manager,42992.3191341612
+42,37,Bachelor,Urban,Clerical,40125.89835198023
+51,9,High School,Urban,Laborer,34093.64025290182
+54,17,Bachelor,Suburban,Laborer,55965.52655760944
+49,9,Bachelor,Suburban,Manager,52366.261715445726
+54,11,High School,Urban,Laborer,37219.94315776363
+26,15,Bachelor,Urban,Laborer,23883.960349060264
+40,24,High School,Urban,Laborer,39947.3801198719
+25,38,High School,Suburban,Clerical,25449.940487364358
+56,35,Bachelor,Urban,Manager,64746.2405780885
+38,30,High School,Urban,Laborer,35369.182700822385
+49,31,Bachelor,Urban,Technician,35056.519156662194
+51,5,Bachelor,Rural,Technician,49076.850891799266
+50,14,PhD,Urban,Technician,89060.49377638286
+27,11,High School,Rural,Technician,49462.237737169286
+56,9,Bachelor,Rural,Clerical,53298.75725908901
+62,34,Bachelor,Urban,Laborer,30108.574114297156
+58,12,High School,Rural,Manager,64324.00149649482
+45,35,PhD,Urban,Laborer,60675.59238946145
+50,35,Bachelor,Suburban,Clerical,64006.75869308515
+52,1,Bachelor,Suburban,Technician,45119.556824728774
+56,22,Master,Suburban,Clerical,72562.61808724859
+54,29,PhD,Suburban,Laborer,89603.11143812911
+42,8,Master,Rural,Manager,69722.059048613
+53,11,Bachelor,Urban,Clerical,61337.82439639909
+44,37,Bachelor,Urban,Manager,48523.415207665515
+54,14,High School,Urban,Clerical,33490.50786890784
+24,30,High School,Suburban,Manager,42074.48034678715
+39,35,Bachelor,Suburban,Manager,44901.28241346175
+46,21,High School,Urban,Technician,77008.05566218737
+63,37,Bachelor,Suburban,Manager,35114.6257026423
+52,5,High School,Urban,Technician,55031.278248856135
+24,19,High School,Urban,Laborer,47757.95251808521
+61,14,Master,Urban,Laborer,63448.08312185907
+45,26,Master,Urban,Technician,82198.29149870761
+53,4,High School,Urban,Technician,44475.661789017686
+43,25,Bachelor,Urban,Clerical,40476.39620386377
+44,25,Master,Urban,Clerical,64375.95565880112
+23,18,High School,Suburban,Clerical,37252.32596642157
+48,8,Master,Urban,Laborer,67549.27003224974
+63,39,High School,Urban,Clerical,52196.10447444248
+23,14,High School,Suburban,Manager,27113.680864538954
+47,32,PhD,Suburban,Manager,87930.04177004224
+38,38,High School,Suburban,Clerical,36176.50232697311
+61,33,Bachelor,Urban,Manager,56654.20884023268
+54,23,Master,Rural,Laborer,69255.45255481044
+30,15,High School,Rural,Manager,45510.830359459454
+64,33,Bachelor,Suburban,Laborer,48363.372235211464
+60,25,PhD,Rural,Technician,62671.03627011004
+50,17,High School,Suburban,Technician,35965.08239044988
+63,33,Master,Urban,Technician,83477.57898793316
+47,2,Bachelor,Rural,Technician,37012.00344306411
+56,14,Bachelor,Urban,Manager,39211.34993055551
+46,39,Bachelor,Rural,Clerical,38552.76765284428
+45,6,High School,Urban,Manager,42036.30819876498
+34,6,Master,Rural,Laborer,37129.41825018291
+28,3,Master,Urban,Manager,39696.6021579841
+57,7,Bachelor,Urban,Manager,46085.67750561113
+41,8,Master,Rural,Laborer,40683.36832052644
+22,15,Bachelor,Urban,Technician,31905.930360757975
+29,29,Bachelor,Urban,Technician,30795.97385955591
+37,33,Bachelor,Urban,Technician,37300.824363000065
+35,30,Bachelor,Rural,Clerical,60968.6976000561
+33,39,Bachelor,Rural,Laborer,64335.61934181624
+44,27,Master,Urban,Laborer,88785.01339827909
+36,36,Bachelor,Urban,Manager,78235.42787770217
+49,29,High School,Rural,Clerical,51794.6906482067
+55,38,High School,Rural,Technician,55415.165122015474
+23,33,Bachelor,Urban,Clerical,51966.53136028877
+53,37,Bachelor,Urban,Laborer,57797.972780184034
+44,27,Bachelor,Urban,Laborer,79154.04572274756
+43,33,Bachelor,Suburban,Manager,55568.19302085246
+46,4,Bachelor,Rural,Manager,67298.5786781786
+43,22,Bachelor,Suburban,Laborer,35984.725871322335
+43,2,High School,Rural,Technician,30006.419136126584
+63,10,Bachelor,Rural,Technician,54681.04396692451
+27,5,Bachelor,Rural,Clerical,52248.97505095087
+36,10,Master,Rural,Laborer,50700.987188926556
+64,33,Bachelor,Rural,Laborer,86110.66375896828
+58,38,High School,Rural,Technician,42588.91155872299
+54,13,High School,Rural,Technician,33359.12421723007
+29,31,High School,Suburban,Laborer,42274.282410409454
+26,36,Bachelor,Urban,Manager,50381.40053917452
+60,24,High School,Urban,Laborer,42817.038218366324
+25,15,Bachelor,Suburban,Laborer,26094.244769734505
+27,29,Bachelor,Suburban,Technician,69379.20044850299
+53,8,High School,Suburban,Technician,60232.44130658725
+51,5,Bachelor,Suburban,Manager,72054.81158054728
+56,29,High School,Rural,Manager,44881.47637804446
+61,4,Bachelor,Urban,Clerical,59937.21590246774
+37,12,High School,Rural,Laborer,27006.59577989125
+34,2,Master,Urban,Technician,72493.48992896084
+63,27,High School,Urban,Manager,43776.815603409086
+51,31,PhD,Suburban,Clerical,63093.90076541137
+40,36,Bachelor,Rural,Clerical,62971.17037461261
+38,36,Master,Suburban,Technician,73551.7355413665
+40,26,Bachelor,Rural,Technician,50909.132535123994
+49,27,Bachelor,Urban,Clerical,56575.73870192605
+47,5,Master,Suburban,Manager,44524.244820996595
+58,20,Bachelor,Suburban,Clerical,68647.75155821537
+47,11,Bachelor,Urban,Laborer,36517.80217947647
+44,10,Bachelor,Urban,Laborer,39418.61527881236
+30,38,Bachelor,Urban,Technician,50934.73468145805
+33,6,High School,Suburban,Manager,56717.744263276894
+22,8,High School,Rural,Manager,56709.22949823491
+22,23,Bachelor,Suburban,Laborer,49927.630671423045
+55,26,Bachelor,Rural,Clerical,61595.20043380717
+53,12,Master,Suburban,Technician,34664.12326006656
+46,26,Bachelor,Suburban,Clerical,39210.200148056705
+61,13,PhD,Urban,Clerical,59515.74340804598
+22,18,High School,Rural,Clerical,58783.19364639727
+37,25,High School,Suburban,Manager,49819.81244362012
+60,33,High School,Suburban,Laborer,42769.79163856901
+26,12,Bachelor,Urban,Manager,54226.02595744061
+43,36,Master,Urban,Laborer,83525.08914045186
+50,4,High School,Rural,Technician,37447.30500240173
+24,5,Master,Suburban,Technician,40288.99037198941
+33,37,Bachelor,Rural,Clerical,66307.92776592956
+47,8,Bachelor,Suburban,Laborer,52727.58555807591
+37,28,Bachelor,Rural,Laborer,64305.075172486715
+58,31,High School,Urban,Laborer,39328.527889202385
+43,9,Bachelor,Suburban,Clerical,37419.657144441604
+50,29,Bachelor,Rural,Clerical,56042.32581624465
+35,14,High School,Urban,Technician,40152.62606112146
+49,22,Bachelor,Urban,Manager,52774.13424311614
+26,11,High School,Rural,Laborer,64248.55741176124
+51,23,Bachelor,Suburban,Laborer,33519.46283922949
+26,1,Bachelor,Suburban,Manager,54288.77990713974
+33,37,Bachelor,Urban,Laborer,37715.049647619846
+37,21,Bachelor,Suburban,Clerical,11141.810403199132
+47,26,High School,Suburban,Clerical,39265.52216466664
+47,36,Bachelor,Suburban,Laborer,50465.344054997106
+42,23,High School,Urban,Clerical,49352.83154426138
+60,1,High School,Rural,Clerical,36736.88877124085
+57,15,Master,Suburban,Laborer,37664.99467314042
+54,21,High School,Urban,Technician,27663.526341177057
+51,9,Bachelor,Urban,Manager,69754.38255030056
+58,9,Bachelor,Rural,Clerical,37450.581060640536
+44,10,High School,Suburban,Technician,63748.382945387595
+31,26,High School,Suburban,Clerical,55749.76438857075
+26,35,High School,Rural,Clerical,35233.29093495895
+57,25,Master,Rural,Manager,49063.81255345952
+55,26,Bachelor,Urban,Clerical,65718.69453695868
+52,11,High School,Urban,Manager,36386.3313235957
+31,38,Bachelor,Rural,Manager,26815.247904500622
+40,2,Bachelor,Suburban,Manager,58434.749309348874
+53,7,High School,Urban,Technician,46258.95171787279
+22,18,Bachelor,Urban,Laborer,67065.59304072167
+26,27,Bachelor,Suburban,Technician,55243.924990404455
+25,34,Master,Urban,Laborer,51762.79534431424
+37,27,High School,Suburban,Laborer,59045.18259403201
+45,17,High School,Suburban,Manager,60504.85649018265
+37,24,High School,Suburban,Clerical,43498.089459778115
+23,25,Bachelor,Rural,Manager,50904.828717994584
+49,7,High School,Rural,Clerical,20150.934653423425
+53,6,Bachelor,Rural,Laborer,40887.10486480286
+48,24,Master,Suburban,Manager,71411.54462939031
+41,33,Bachelor,Suburban,Clerical,41640.79549455949
+45,29,Bachelor,Rural,Technician,28147.431959100162
+33,22,Master,Urban,Clerical,112438.16684400149
+56,26,Bachelor,Suburban,Manager,28048.910623599673
+54,28,Bachelor,Urban,Technician,83851.27094651177
+54,21,High School,Urban,Clerical,35388.6483310261
+64,7,PhD,Suburban,Clerical,68731.55501284287
+58,17,High School,Suburban,Clerical,29915.82591718602
+33,20,High School,Urban,Clerical,51742.55747106838
+24,20,High School,Urban,Clerical,18403.386803348734
+22,22,Bachelor,Rural,Technician,22395.06445648742
+54,28,High School,Rural,Laborer,64152.57294067909
+61,7,High School,Suburban,Technician,27940.41401789533
+31,1,High School,Rural,Technician,51191.32179309527
+64,32,High School,Rural,Technician,23718.158846556762
+50,13,Bachelor,Rural,Laborer,60626.31564341873
+34,30,Bachelor,Rural,Manager,75253.19748167675
+33,23,High School,Urban,Laborer,32093.17921877325
+52,19,Bachelor,Suburban,Technician,20998.383398210284
+23,32,Bachelor,Rural,Clerical,75331.90869964857
+56,30,High School,Urban,Clerical,53893.66482287337
+44,29,High School,Urban,Technician,32896.43149343038
+38,29,PhD,Urban,Clerical,66730.71920097031
+47,30,Bachelor,Rural,Technician,33340.21705625471
+29,16,High School,Rural,Clerical,61303.8539866294
+50,19,Bachelor,Suburban,Laborer,41979.26588284032
+47,18,High School,Rural,Manager,18719.3719367879
+31,1,Bachelor,Rural,Manager,53204.68822268707
+47,14,High School,Urban,Laborer,27099.7995763219
+55,2,High School,Suburban,Laborer,24549.781362053378
+62,28,High School,Rural,Technician,33548.51194357082
+28,30,Master,Rural,Technician,61295.32973250556
+25,38,Bachelor,Urban,Technician,29283.353661278798
+32,4,High School,Urban,Clerical,60777.23387818485
+50,1,High School,Rural,Technician,50157.39568098681
+57,8,Bachelor,Suburban,Laborer,44519.555138409036
+46,29,High School,Suburban,Manager,26449.847705545035
+42,39,High School,Urban,Clerical,38661.61820625004
+57,3,PhD,Urban,Technician,83491.52561133582
+31,32,High School,Rural,Clerical,51168.760407995185
+58,10,Bachelor,Urban,Clerical,65877.56450676767
+30,10,PhD,Rural,Technician,62794.337635295175
+45,19,High School,Suburban,Clerical,-3873.877687950153
+56,34,High School,Suburban,Manager,58717.1679687437
+56,33,High School,Rural,Laborer,37492.05785391472
+57,23,Master,Urban,Laborer,69992.49098207493
+39,28,Master,Suburban,Manager,85038.43131960453
+60,32,Master,Urban,Clerical,96516.12949856522
+53,7,High School,Suburban,Technician,30252.67782788769
+45,29,Master,Rural,Clerical,62009.39860748467
+44,8,Master,Rural,Manager,80502.54690908169
+53,1,Bachelor,Rural,Clerical,37335.81472215506
+58,3,Master,Suburban,Laborer,51268.32609314358
+33,24,Master,Urban,Clerical,51179.421323116876
+34,23,Bachelor,Urban,Manager,49578.64529887967
+44,8,Bachelor,Urban,Laborer,46698.14479565045
+46,37,High School,Suburban,Clerical,31093.07016615513
+56,3,High School,Suburban,Clerical,25513.638765906107
+62,33,Bachelor,Suburban,Laborer,62179.10492592937
+51,28,High School,Suburban,Technician,60067.465314491754
+38,8,Master,Suburban,Laborer,82240.72191258622
+41,34,PhD,Urban,Technician,62783.896639232735
+46,35,Master,Suburban,Manager,72805.87008385916
+43,32,High School,Suburban,Manager,43544.88854091663
+34,24,High School,Urban,Laborer,31439.929770800118
+40,14,High School,Suburban,Laborer,51013.27328062294
+57,32,Bachelor,Urban,Manager,40750.92418931755
+33,16,Master,Urban,Technician,54357.35095827467
+62,4,Master,Rural,Manager,39349.05446244555
+40,37,Bachelor,Rural,Laborer,43036.68353850161
+33,21,Master,Rural,Manager,63807.91813521877
+30,14,Master,Rural,Laborer,83534.01743516243
+28,31,High School,Suburban,Laborer,34697.5683069747
+49,18,Master,Rural,Manager,44427.46279369599
+35,7,High School,Urban,Technician,62460.534564011876
+52,10,High School,Suburban,Clerical,32431.713443736735
+40,7,Bachelor,Rural,Manager,23774.275157887027
+37,33,High School,Urban,Clerical,41996.40602705176
+26,23,Bachelor,Suburban,Manager,45128.39790081237
+56,21,Bachelor,Suburban,Clerical,84505.93464027757
+33,19,Bachelor,Rural,Technician,57130.490515208185
+46,19,High School,Suburban,Technician,37804.86469517746
+42,36,Bachelor,Urban,Manager,36132.54186116595
+57,29,Bachelor,Suburban,Laborer,54952.50261789451
+44,18,Bachelor,Urban,Clerical,71850.64925092692
+37,2,Bachelor,Suburban,Laborer,54677.21275215891
+60,1,High School,Rural,Laborer,27288.55461823081
+63,5,Bachelor,Urban,Laborer,58082.09317627931
+60,20,High School,Suburban,Technician,39270.89657690777
+35,11,Bachelor,Suburban,Manager,56729.19654977243
+52,2,Master,Suburban,Manager,54677.889747236695
+26,3,Bachelor,Urban,Technician,44325.57088608182
+56,23,Bachelor,Urban,Technician,43733.3030385233
+44,12,PhD,Urban,Manager,84133.57227246043
+50,20,Master,Rural,Laborer,54476.62087138363
+64,5,Master,Rural,Clerical,53104.03902938659
+32,37,Master,Urban,Clerical,45869.011476564505
+39,38,High School,Suburban,Clerical,46810.207025751515
+33,30,High School,Rural,Laborer,44675.527031968275
+30,9,Bachelor,Urban,Manager,43268.476632670536
+31,34,High School,Suburban,Technician,29359.319386632087
+38,35,Bachelor,Rural,Manager,78142.60119841568
+59,22,High School,Suburban,Laborer,11793.35417312743
+28,24,Bachelor,Suburban,Technician,57397.58004802582
+34,17,Bachelor,Suburban,Laborer,69371.05322324013
+61,10,Bachelor,Suburban,Clerical,-802.2064223245034
+63,30,Bachelor,Rural,Clerical,61912.100901142694
+30,23,Master,Rural,Laborer,56696.18097755867
+48,32,Bachelor,Rural,Technician,53840.82296424889
+23,17,Master,Urban,Technician,55151.43053216865
+26,17,High School,Rural,Manager,56130.901684691155
+50,14,PhD,Suburban,Clerical,75446.79012507036
+58,9,Bachelor,Rural,Manager,51975.798343014736
+59,2,High School,Suburban,Manager,26517.090895621106
+40,25,High School,Urban,Laborer,68234.38350751283
+29,39,Bachelor,Suburban,Laborer,50148.96529599906
+22,9,High School,Suburban,Manager,74347.08696190688
+43,22,High School,Suburban,Clerical,68913.54077767293
+38,4,Bachelor,Urban,Laborer,23324.735491019288
+28,26,Bachelor,Rural,Manager,40175.81058795965
+46,29,Bachelor,Rural,Manager,34445.734910375875
+25,34,Master,Urban,Manager,59276.908777694065
+57,23,Bachelor,Suburban,Manager,52807.46030729243
+27,37,Bachelor,Rural,Manager,53448.897018401454
+52,11,High School,Urban,Manager,55811.930140284676
+40,6,Bachelor,Rural,Laborer,72403.74153963305
+60,18,High School,Urban,Clerical,54512.31623857958
+48,21,PhD,Suburban,Manager,61585.9717866438
+31,36,Master,Rural,Technician,48269.642023388406
+47,38,Bachelor,Urban,Laborer,50041.42753825905
+40,34,High School,Rural,Laborer,46391.79289606992
+60,17,Master,Rural,Manager,57252.12981424317
+24,37,Master,Rural,Laborer,39817.72745621667
+34,25,High School,Rural,Manager,50230.89262865201
+49,38,High School,Urban,Clerical,34115.27846899145
+41,12,Master,Suburban,Clerical,53662.308983669354
+49,23,High School,Urban,Laborer,39180.809889128606
+29,22,Master,Urban,Laborer,56401.51624379759
+62,21,Bachelor,Urban,Technician,44502.48416731848
+60,27,High School,Suburban,Laborer,20798.12039600216
+22,31,Master,Rural,Technician,58316.28799572512
+24,6,High School,Rural,Clerical,50544.30687860302
+34,27,Bachelor,Rural,Clerical,53969.66007681933
+49,34,High School,Suburban,Manager,54221.82158650967
+46,12,High School,Rural,Clerical,29071.8246651999
+54,7,Bachelor,Suburban,Technician,30829.122813232978
